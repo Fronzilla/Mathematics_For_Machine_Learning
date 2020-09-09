@@ -1,1 +1,1 @@
-# Mathematics_For_Machine_Learning-
+This repository contains programming tasks for  Mathematics for Machine Learning Specialisation By Imperial College London
